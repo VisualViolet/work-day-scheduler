@@ -2,7 +2,7 @@
 
 ## Description
 
-A workday scheduler that allows a user to create and save events in specified timeblocks. This challenge allowed me to use skills learned in the UW Coding Bootcamp such as JavaScript, jQuery, and the DayJS library. The end product is a user friendly scheduling application that automatically updates to the current date and time as well as saves time block events persistently until they are removed. In building this application, I havel earned how to use JavaScript libraries to enhance applications and provide a better end user experience.
+A workday scheduler that allows a user to create and save events in specified timeblocks. This challenge allowed me to use skills learned in the UW Coding Bootcamp such as JavaScript, jQuery, and the DayJS library. The end product is a user friendly scheduling application that automatically updates to the current date and time as well as saves time block events persistently until they are removed. In building this application, I have learned how to use JavaScript libraries to enhance applications and provide a better end user experience.
 
 ![scheduler application demonstration](https://github.com/VisualViolet/work-day-scheduler/blob/main/assets/images/work-day-scheduler-demo.gif)
 
