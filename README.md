@@ -6,7 +6,7 @@ A workday scheduler that allows a user to create and save events in specified ti
 
 ## Installation
 
-No installation necessary. Simply view the link to my deployed application here:
+No installation necessary. Simply view the link to my deployed application here: https://visualviolet.github.io/work-day-scheduler/
 
 ## Usage
 
